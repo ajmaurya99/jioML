@@ -1,6 +1,6 @@
 ### auto_fill_data.json Assignment no - 1
 
-I have used Python and Flask to solve this assignment.
+I have used Python and Flask to solve this problem.
 
 - Command to run the App
 - env FLASK_APP=driver_code.py flask run
